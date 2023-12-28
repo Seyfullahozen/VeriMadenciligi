@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "cdkja8/YO8xX9PqR97sAvu8f49xaFCRnDUvILOOwQetixcF+oEamTRcbdolG+arMkN527DhS9rCsF+viq9NA7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Seyfullah\\source\\repos\\VM_Proje\\VM_Proje\\VM_Proje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Seyfullah\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\Seyfullah\\.nuget\\packages\\accord.machinelearning\\3.8.0\\accord.machinelearning.3.8.0.nupkg.sha512",
+    "C:\\Users\\Seyfullah\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\Seyfullah\\.nuget\\packages\\accord.statistics\\3.8.0\\accord.statistics.3.8.0.nupkg.sha512",
+    "C:\\Users\\Seyfullah\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Seyfullah\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\Seyfullah\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Seyfullah\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\Seyfullah\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
